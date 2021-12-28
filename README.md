@@ -1,2 +1,2 @@
-# portpolio
- joungyoun portpolio
+# portfolio
+ joungyoun portfolio
