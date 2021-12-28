@@ -210,9 +210,10 @@ p {
   transition: all var(--animaton-duration) ease;
 }
 .major__icon:hover i {
-  color: rgb(241, 241, 56);
+  color: rgb(245, 245, 18);
   transform: rotate(-30deg) scale(1.1);
 }
+
 .major__title,
 .major__description {
   color: var(--color-dark-grey);
